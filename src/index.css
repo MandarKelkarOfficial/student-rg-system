@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-header {
+  background: rgb(255,0,255);
+  /* background: linear-gradient(90deg, rgba(255,0,255,1) 3%, rgba(69,127,218,1) 56%, rgba(0,255,243,1) 98%); */
+  background-image: linear-gradient( 181deg,  rgb(165, 172, 254) 6.9%, rgba(78,248,231,1) 112.8% );
+}
+
